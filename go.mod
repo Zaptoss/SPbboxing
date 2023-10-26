@@ -1,3 +1,3 @@
-module awesomeProject
+module main
 
 go 1.21
